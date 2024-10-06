@@ -1,0 +1,6 @@
+TodoApp\build
+TodoApp\node_modules
+TodoApi\wwwroot
+TodoApi\bin
+TodoApi\obj
+TodoApi\todo.db
